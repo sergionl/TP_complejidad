@@ -26,7 +26,8 @@ el trabajo en equipo en época de pandemia, ha sido un éxito, cuarto y finalmen
 avanzando en nuestra travesía hacia futuros ingenieros de software que desarrollan todos
 las tareas que se les piden implementar con éxito.
 
-Integrantes:
+
+INTEGRANTES:
 
 Gamarra Sebastián
 
