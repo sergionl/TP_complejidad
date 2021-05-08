@@ -1,6 +1,7 @@
 # Trabajo Parcial - Complejidad Algoritmica CC184/2021-I  
 
 INTRODUCCIÓN
+
 El presente trabajo de investigación tiene como objetivo descubrir diferentes soluciones
 para el famoso y codiciado problema del vendedor viajero, más conocido por su nombre
 en original en inglés Traveling Salesman Problem o TSP. Este problema responde a la
