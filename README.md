@@ -29,6 +29,9 @@ las tareas que se les piden implementar con éxito.
 Integrantes:
 
 Gamarra Sebastián
+
 Hernández Nicolás
+
 Litano Joel
+
 Nuñez Sergio
