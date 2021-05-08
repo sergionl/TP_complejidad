@@ -25,3 +25,10 @@ segundo, poner en práctica los conocimientos adquiridos en clase, tercero, comp
 el trabajo en equipo en época de pandemia, ha sido un éxito, cuarto y finalmente, seguir
 avanzando en nuestra travesía hacia futuros ingenieros de software que desarrollan todos
 las tareas que se les piden implementar con éxito.
+
+Integrantes:
+
+Gamarra Sebastián
+Hernández Nicolás
+Litano Joel
+Nuñez Sergio
